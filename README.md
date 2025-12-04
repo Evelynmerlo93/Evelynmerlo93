@@ -18,8 +18,11 @@ I am committed to transforming ideas into polished, functional code, delivered w
 Here you can see examples of my skills in React, JavaScript, and responsive design:
 
 ✅ **Kawaii Plush** – An interactive *Landing Page* developed with **React** for a modern and fully responsive design.
+-
 ✅ **Pet Adoption** – A complete responsive website built with a *mobile-first* approach and components ideal for user interaction.
+-
 ✅ **Electronic Music Event** – Event page featuring modern design, responsive layout, and smooth navigation.
+
 
 ---
 ### Languages & Frameworks
