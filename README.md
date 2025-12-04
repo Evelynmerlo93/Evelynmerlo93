@@ -1,4 +1,4 @@
-# Hi 👋, I'm Evelyn Merlo!
+# Hi 👋, I'm Evelyn!
 
 ### Junior Frontend Developer | Bug Fixing Expert
 
