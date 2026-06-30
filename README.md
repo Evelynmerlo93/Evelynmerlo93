@@ -1,18 +1,5 @@
 # Hi 👋, I'm Evelyn!
 
-### Junior Frontend Developer | Bug Fixing Expert
-
-I specialize in building clean, functional user interfaces with **React** and **JavaScript**.
-
-With training from **CoderHouse** and a strong focus on **Clean Code**, my mission is:
-
-* **Fixing Bugs** quickly and efficiently to ensure your project keeps moving forward.
-* Developing scalable, intuitive, and **100% responsive** components for any screen.
-
-I am committed to transforming ideas into polished, functional code, delivered with the quality you expect from a professional environment.
-
----
-
 ### 🚀 Featured Projects
 
 Here you can see examples of my skills in React, JavaScript, and responsive design:
